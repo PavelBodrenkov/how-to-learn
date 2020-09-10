@@ -57,12 +57,16 @@
   margin-bottom:0;
 }
 
-.header_link {
+.header__link {
   color: #2f80de;
   text-decoration: none;
 }
 
-.main__illustration {
+.header__link:hover {
+  color:red;
+}
+
+.header__main-illustration {
   width:765px;
   height: 608px;
   position: absolute;
@@ -229,6 +233,9 @@
   text-decoration: none;
 }
 
+.feinman__link:hover{
+  color:red;
+}
 
 .kaufman {
   display: flex;
@@ -348,6 +355,6 @@
   list-style-type: none;
 }
 
- a:hover {
+.footer__column-link:hover {
    color:red;
  }
