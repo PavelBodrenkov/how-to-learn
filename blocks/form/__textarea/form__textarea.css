@@ -1,0 +1,30 @@
+.form__textarea {
+    height: 50px;
+    width: 508px;
+    padding: 0;
+    margin: 10px 0 0 0;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 5px 0 0 5px;
+    box-shadow: inset 0 1px 1px  grey;
+}
+
+.form__textarea:hover {
+    border:1px solid black;
+}
+
+.form__textarea:focus {
+    outline: none;
+}
+
+@media screen and (max-width: 520px) {
+    .form__textarea {
+        margin: 0 auto;
+        width: 350px;
+        box-sizing: border-box;}
+    }
+
+@media screen and (max-width: 372px) {
+    .form__textarea {
+        width: 300px;}
+    }

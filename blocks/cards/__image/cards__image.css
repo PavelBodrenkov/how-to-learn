@@ -3,4 +3,9 @@
     height: 160px;
     margin: 60px 40px 43px 40px;
     border-radius: 100px;
+    transition: 0.5s linear;
   }
+
+.cards__image:hover {
+  transform: scale(1.1);
+}

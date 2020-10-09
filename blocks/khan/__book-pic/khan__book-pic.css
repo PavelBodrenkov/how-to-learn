@@ -5,3 +5,24 @@
     height: 608px;
     margin:0;
   }
+
+  @media screen and (max-width: 1068px) {
+    .khan__book-pic {
+      width: 520px;
+    height: 508px;
+  }
+}
+
+@media screen and (max-width: 792px) {
+  .khan__book-pic {
+    width: 420px;
+  height: 408px;
+}
+}
+
+@media screen and (max-width: 648px) {
+  .khan__book-pic {
+    width: 320px;
+  height: 308px;
+}
+}

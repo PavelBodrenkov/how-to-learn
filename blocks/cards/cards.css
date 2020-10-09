@@ -1,9 +1,21 @@
 .cards {
     list-style-type: none;
     padding: 0;
-    width: 920px;
+    max-width: 920px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     margin:0;
   }
+
+  @media screen and (max-width: 1148px) {
+    .cards {
+      justify-content: space-around;
+
+    }
+  }
+
+  /*@media screen and (max-width: 1028px) {
+    .cards {
+      max-width: 810px;
+    }

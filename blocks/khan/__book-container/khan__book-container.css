@@ -2,3 +2,9 @@
     display: flex;
     
   }
+
+  @media screen and (max-width: 972px) {
+    .khan__book-container{
+      flex-direction: column;
+  }
+}

@@ -1,7 +1,14 @@
 .feinman__illustration {
-    width: 867px;
-    height: 637px;
+    max-width: 867px;
+    max-height: 637px;
+    object-fit: cover;
     position: absolute;
     bottom:0;
     left:0;
+  }
+
+  @media screen and (max-width: 868px) {
+    .feinman__illustration {
+        width: 100%;
+    }
   }

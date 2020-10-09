@@ -6,3 +6,18 @@
     z-index:1;
     text-align: center;
   }
+
+  @media screen and (max-width:1288px) {
+    .feinman__subtitle {
+      position: absolute;
+      right:48px;
+      top:40%;
+    }
+  }
+
+  @media screen and (max-width:656px) {
+    .feinman__subtitle{
+       position: relative;
+       right:0;
+       top:0;}
+    }

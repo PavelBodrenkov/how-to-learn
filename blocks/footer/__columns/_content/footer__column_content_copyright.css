@@ -5,3 +5,22 @@
     flex-direction: column;
     justify-content: space-between;
   }
+
+
+@media screen and (max-width: 1080px) {
+  .footer__column_content_copyright {
+    flex-basis: 500px;
+  }
+}
+
+@media screen and (max-width: 848px) {
+  .footer__column_content_copyright {
+    flex-basis: 300px;
+  }
+}
+
+@media screen and (max-width: 632px) {
+  .footer__column_content_copyright {
+    flex-basis: 200px;
+  }
+}

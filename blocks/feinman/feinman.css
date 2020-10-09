@@ -7,3 +7,21 @@
     position: relative;
     padding-top:80px;
   }
+
+  @media screen and (max-width: 464px) {
+    .feinman {
+      min-height: 700px;}
+    
+    }
+
+    @media screen and (max-width: 448px) {
+      .feinman {
+        min-height: 600px;}
+      
+      }
+
+      @media screen and (max-width: 392px) {
+        .feinman {
+          min-height: 570px;}
+        
+        }

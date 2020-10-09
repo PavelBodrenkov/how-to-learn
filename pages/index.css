@@ -58,6 +58,14 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/form/__container/form__conteiner.css);
+@import url(../blocks/form/__heading/form__heading.css);
+@import url(../blocks/form/__input-container/form__input-conteiner.css);
+@import url(../blocks/form/__admin/form__admin.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__textarea/form__textarea.css);
+@import url(../blocks/form/__button-block/form__button-block.css);
+@import url(../blocks/form/__button/form__button.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__columns/_content/footer__column_content_copyright.css);
@@ -67,6 +75,20 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
+
+
+    
+
+
+
+
+
+
+
+
+/* {
+    outline: 1px solid red;
+}
 
 
 

@@ -8,3 +8,19 @@
 .video__iframe:last-child {
     margin-right:0;
 }
+
+
+@media screen and (max-width:1056px) {
+  .video__iframe {
+    margin-bottom: 20px;
+    margin-right: 0;
+  }
+  .video__iframe:last-child {
+    margin-bottom:0;
+}
+}
+
+@media screen and (max-width:512px) {
+  .video__iframe {
+     width: 320px;}
+}
