@@ -5,3 +5,10 @@
     padding-top: 105px;
     box-sizing: border-box;
   }
+
+  @media screen and (max-width: 376px) {
+    .khan {
+      
+      padding-top: 80px;}
+     
+    }

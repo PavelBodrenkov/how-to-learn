@@ -6,3 +6,9 @@
     top: 64px;
     right:0;
 }
+
+@media screen and (max-width: 1200px) {
+    .header__square-pic {
+        height: 468px;
+        width: 468px;}
+    }

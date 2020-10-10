@@ -7,6 +7,12 @@
 
   @media screen and (max-width: 508px) {
     .footer__columns {
-      flex-direction: column;
+      flex-direction: column-reverse;
     }
   }
+
+  @media screen and (max-width: 376px) {
+    .footer__columns {
+      
+      margin:20px 0 0 0;}}
+     

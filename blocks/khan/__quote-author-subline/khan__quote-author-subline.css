@@ -5,3 +5,8 @@
     line-height: 1.15;
     font-weight: normal;
   }
+
+  @media screen and (max-width: 376px) {
+    .khan__quote-author-subline {
+      margin: 10px 0 48px;}
+    }

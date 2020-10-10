@@ -11,6 +11,6 @@
   @media screen and (max-width:1036px) {
    
     .table {justify-content: space-around;
-      flex-wrap: wrap;}
+    }
 
   }

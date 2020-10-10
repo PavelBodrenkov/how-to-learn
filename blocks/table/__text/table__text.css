@@ -4,3 +4,7 @@
     font-weight: normal;
     margin: 20px 0 0;
 }
+
+@media screen and (max-width: 376px){
+    .table__text {
+        font-size: 25px;}}

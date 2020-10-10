@@ -1,5 +1,5 @@
 .header__subtitle {
-    width: 388px;
+    max-width: 388px;
     font-size: 18px;
     line-height: 25px;
     font-weight: normal;
@@ -10,3 +10,22 @@
     margin-top:0;
     margin-bottom:0;
   }
+
+  @media screen and (max-width: 1170px) {
+    .header__subtitle {
+      max-width: 300px;}
+    }
+
+
+    @media screen and (max-width: 962px) {
+      .header__subtitle {
+        position: unset;
+      }
+    }
+
+    @media screen and (max-width: 656px) {
+      .header__subtitle {
+        font-size: 14px;
+        line-height: 20px;}
+      }
+
