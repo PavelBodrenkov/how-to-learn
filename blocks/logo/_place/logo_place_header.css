@@ -9,5 +9,6 @@
   @media screen and (max-width: 1230px) {
     .logo_place_header {
       position: static;
+      margin-top: 10px;
       
     }}
