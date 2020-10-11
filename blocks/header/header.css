@@ -11,31 +11,13 @@
     /* выше установили ограничения для секции */
   }
 
-
-  @media screen and (max-width: 1023px) {
+  @media screen and (max-width: 1230px) {
     .header{
-      justify-content: flex-start;
-     align-items: center;
-     
-    }    
+      flex-direction: column;
+      justify-content: flex-end;
+      
+    }
   }
 
-  @media screen and (max-width: 962px) {
-    .header{
-      
-      justify-content: space-between;
-      flex-direction: column;}}
-      
-    
-  
-  
 
-  @media screen and (max-width: 936px) {
-      .header{justify-content: space-between ;}}
-
-  @media screen and (max-width: 504px) {
-    .header{
-      min-height: 600px;
-      max-height: 700px;
-    } 
-  }
+  

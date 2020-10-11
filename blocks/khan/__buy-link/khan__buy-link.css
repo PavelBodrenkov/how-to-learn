@@ -12,12 +12,14 @@
 .khan__buy-link:hover {
     opacity: 0.5;
   }
-
+  @media screen and (max-width: 972px) {
+    .khan__buy-link {
+      margin: 20px 0 20px 0;
+      text-align: left;
+    }
+  }
   @media screen and (max-width: 376px) {
     .khan__buy-link {
-      
-      
       margin: 20px 0 20px 0;
-      text-align: center;
-    }
+     }
   }
