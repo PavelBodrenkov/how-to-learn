@@ -5,8 +5,12 @@
     padding-left:0;
   }
 
-  @media screen and (max-width: 376px){
+@media screen and (max-width: 497px){
     .table__cell {
-      max-width:350px;
-      text-align: center;
-    }}
+       text-align: center;}}
+    
+@media screen and (max-width: 376px){
+    .table__cell {
+       max-width:350px;}}
+     
+    

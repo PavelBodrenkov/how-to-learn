@@ -6,9 +6,9 @@
     margin: 80px 0 217px;
   }
 
-  @media screen and (max-width: 736px) {
+@media screen and (max-width: 736px) {
     .resources__logo-zone{
-      flex-direction: column;
-      margin: 80px 0 100px;
-    }
-  }
+       flex-direction: column;
+       margin: 80px 0 100px;}}
+    
+  

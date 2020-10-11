@@ -6,23 +6,19 @@
     margin:0;
   }
 
-  @media screen and (max-width: 1068px) {
+@media screen and (max-width: 1068px) {
     .khan__book-pic {
-      width: 520px;
-    height: 508px;
-  }
-}
-
+       width: 520px;
+       height: 508px;}}
+  
 @media screen and (max-width: 792px) {
   .khan__book-pic {
-    width: 420px;
-  height: 408px;
-}
-}
+     width: 420px;
+     height: 408px;}}
 
 @media screen and (max-width: 648px) {
   .khan__book-pic {
-    width: 100%;
-  height: 308px;
-}
-}
+     width: 100%;
+     height: 308px;}}
+
+

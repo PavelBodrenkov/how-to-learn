@@ -14,10 +14,10 @@
   @media screen and (max-width: 1230px) {
     .header{
       flex-direction: column;
-      justify-content: space-between;
+      justify-content: space-between;}}
       
-    }
-  }
+    
+  
 
 
   

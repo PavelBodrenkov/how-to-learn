@@ -3,9 +3,8 @@
     max-width:80%;
   }
 
-  @media screen and (max-width: 612px){
+@media screen and (max-width: 612px){
   .two-columns__main-text {
-    
-    max-width:100%;
-  }
-}
+      max-width:100%;}}
+  
+

@@ -8,15 +8,13 @@
     text-align: center;
   }
 
-  @media screen and (max-width: 508px) {
+@media screen and (max-width: 508px) {
     .section-title {
-      font-size: 50px;
-      width: 70%;
-    }
-  }
+       font-size: 50px;
+       width: 70%;}}
 
-  @media screen and (max-width: 428px) {
+@media screen and (max-width: 428px) {
     .section-title{
-    font-size: 40px;
-      width: 80%;}
-    }
+       font-size: 40px;
+       width: 80%;}}
+    

@@ -10,6 +10,5 @@
 
 @media screen and (max-width:1056px) {
     .video__iframes {
-        flex-direction: column;
-    }
-}
+        flex-direction: column;}}
+

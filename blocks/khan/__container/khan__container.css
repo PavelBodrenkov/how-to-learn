@@ -3,7 +3,7 @@
     box-sizing: border-box;
   }
 
-  @media screen and (max-width: 500px) {
+@media screen and (max-width: 500px) {
     .khan__container {
-      width: 90%;}
-    }
+       width: 90%;}}
+    

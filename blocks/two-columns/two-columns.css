@@ -7,14 +7,12 @@
     text-align: left;
   }
 
-  @media screen and (max-width: 768px) {
-    .two-columns{ max-width: 90%;}
+@media screen and (max-width: 768px) {
+    .two-columns{ max-width: 90%;}}
 
-  }
-
-  @media screen and (max-width: 612px) {
+@media screen and (max-width: 612px) {
     .two-columns {
-      flex-direction: column;
-      justify-content: flex-start;
-    }
-  }
+       flex-direction: column;
+       justify-content: flex-start;}}
+  
+
