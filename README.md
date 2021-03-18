@@ -1,4 +1,4 @@
-# Проект How to learn
+# Проект: How to learn
 
 [Проект на github-pages](https://pavelbodrenkov.github.io/how-to-learn/)
 
@@ -7,20 +7,17 @@
 
 ## Технологии проекта:
 - HTML & CSS
-- 
+
 ## Функциональность:
 - Файловая структура проекта по правилам Nested БЭМ
 - Видео дабавлены с помощью iframe
 - Aнимация
 - Все ссылки реагируют при наведении
 - Flex-вёрстка и позиционирование элементов
-- 
+
 ## Установка:
 - скачай код
 - открой index.html в браузере
-
-## Ссылка на проект:
-https://pavelbodrenkov.github.io/how-to-learn/
 
 ## Фото проекта
 ![image](https://user-images.githubusercontent.com/70709823/110812010-4c334380-8298-11eb-935d-6b1491cd0fab.png)
